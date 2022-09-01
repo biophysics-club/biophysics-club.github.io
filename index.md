@@ -1,17 +1,5 @@
 <h1 style="color:#387499;"><center>Biophysics Club at UMich</center></h1>
 
-<style>
-img {  
-    float: right; 
-    margin-left: 10px; 
-  } 
-
-div { 
-    float: left; 
-    width: calc(100% - 300px - 10px); 
-  } 
-
-</style>
 
 
 <img src="../club-logos/jpg/club-logo-text.jpg" alt="Girl in a jacket" width="300" height="300">
